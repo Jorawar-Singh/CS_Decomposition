@@ -1,10 +1,14 @@
-# CS_Decomposition
+# Optical POVM
 Python3 code for the algorithm presented in the paper titled "A linear optical scheme to implement positive operator valued measures"
-
+\
 If you use this code, please consider citing the article.
 
+\
+The code takes kraus operators of the POVM as input (as a list of numpy matrices) 
+It outputs a sequential list of the left decomposed, cosine, sine, and right-decomposed matrices (a list of list of numpy matrices)
 
-
+\
+\
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
