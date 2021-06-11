@@ -1,6 +1,8 @@
 # Optical POVM
 Python3 code for the algorithm presented in the paper titled "A linear optical scheme to implement positive operator valued measures"
 \
+https://arxiv.org/abs/2106.04160
+\
 If you use this code, please consider citing the article.
 
 \
